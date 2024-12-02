@@ -1,0 +1,97 @@
+# .NET 8 Blazor specific ignores
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider settings directory
+.idea/
+
+# Rider project files
+*.sln.iml
+
+# Rider caches
+.idea/caches/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/.idea_modules
+.idea/.idea/
+
+# Rider logs
+.idea/logs/
+.idea/usage.statistics.xml
+
+# Rider index
+.idea/indexLayout.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/.idea_modules
+.idea/.idea/
+
+# Rider project files
+*.sln.iml
+
+# Rider caches
+.idea/caches/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/.idea_modules
+.idea/.idea/
+
+# Rider logs
+.idea/logs/
+.idea/usage.statistics.xml
+
+# Rider index
+.idea/indexLayout.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/.idea_modules
+.idea/.idea/
